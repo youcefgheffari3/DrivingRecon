@@ -137,5 +137,3 @@ If you use this code, please cite the original paper:
 This is an unofficial research implementation for educational purposes only.
 
 ---
-
-Let me know if you'd like help **drawing** the diagram to place at `docs/drivingrecon_diagram.png` — I can create one for you.
