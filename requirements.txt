@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+opencv-python
+panda3d
+matplotlib
+scipy
+tqdm
+imageio
+pyyaml
+scikit-image
+scikit-learn
+plyfile
